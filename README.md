@@ -44,10 +44,6 @@
     <a href="https://space.bilibili.com/497311101">
         <img src="https://img.shields.io/badge/哔哩哔哩-洱海之畔-pink?logo=bilibili" />
     </a>
-    <!-- QQ -->
-    <a href="http://wpa.qq.com/msgrd?v=3&uin=3442183040&site=qq&menu=yes">
-        <img src="https://img.shields.io/badge/QQ-3442183040-green?logo=tencentqq" />
-    </a>
     <!-- 访问统计小徽章 -->
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <img src="https://komarev.com/ghpvc/?username=Erhai-lake&abbreviated=true&color=yellow" />
