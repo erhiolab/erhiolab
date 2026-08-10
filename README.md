@@ -40,6 +40,7 @@
          <img src="https://skillicons.dev/icons?i=react,tauri,vite,vue,ts,js,go,cs,php,md,sqlite,redis,godot,electron">
     </picture>
 </p>
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github,docker,pnpm,npm,vscode,visualstudio,arduino,blender,idea,webstorm,rider,androidstudio&theme=dark">
@@ -47,6 +48,7 @@
          <img src="https://skillicons.dev/icons?i=github,docker,pnpm,npm,vscode,visualstudio,arduino,blender,idea,webstorm,rider,androidstudio">
     </picture>
 </p>
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ps,ai,au,pr,ae&theme=dark">
