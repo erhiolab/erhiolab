@@ -24,7 +24,7 @@
     <br/>
     <!-- 代码编写总时长 -->
     <!-- https://github.com/stats-organization/github-stats-extended -->
-    <img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=erhiolab&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=86053dcb-48c9-40c6-927f-9ba92e02f9dd&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
     <!-- 项目语言比例 -->
     <!-- https://github.com/stats-organization/github-stats-extended -->
     <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=erhiolab&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
