@@ -31,36 +31,6 @@
     <br/>
 </p>
 
-<!-- 技术栈图标展示 -->
-<!-- https://github.com/tandpfun/skill-icons -->
-<div align="center">
-
-**Languages & Frameworks**
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,tauri,vite,vue,ts,js,go,cs,php,md,sqlite,redis,godot,electron&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,tauri,vite,vue,ts,js,go,cs,php,md,sqlite,redis,godot,electron&theme=light" />
-    <img src="https://skillicons.dev/icons?i=react,tauri,vite,vue,ts,js,go,cs,php,md,sqlite,redis,godot,electron" alt="Languages & Frameworks" />
-</picture>
-
-**Tools & IDEs**
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github,docker,pnpm,npm,vscode,visualstudio,arduino,blender,idea,webstorm,rider,androidstudio&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github,docker,pnpm,npm,vscode,visualstudio,arduino,blender,idea,webstorm,rider,androidstudio&theme=light" />
-    <img src="https://skillicons.dev/icons?i=github,docker,pnpm,npm,vscode,visualstudio,arduino,blender,idea,webstorm,rider,androidstudio" alt="Tools & IDEs" />
-</picture>
-
-**Creative Suite**
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ps,ai,au,pr,ae&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ps,ai,au,pr,ae&theme=light" />
-    <img src="https://skillicons.dev/icons?i=ps,ai,au,pr,ae" alt="Creative Suite" />
-</picture>
-
-</div>
-
 <!-- https://github.com/badges/shields -->
 <p align="center">
     <!-- GitHub -->
